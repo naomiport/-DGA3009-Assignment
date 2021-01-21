@@ -32,13 +32,13 @@ body {
    
     @media only screen and (max-width: 600px)
     {
+    }
     #contact {
         width:100%; 
-        height:100%; 
-        padding-top: 100px; 
+        height:100%;  
         align-content: center;
         }
-      }
+      
 
     .container {
         width:100%; 
@@ -65,7 +65,7 @@ body {
     
     #contact .container form input:focus,
     #contact .container form textarea:focus {
-        border:2px solid black;
+        border:2px solid  #202020;
         color:#999;}
     
     #contact .container form textarea {
@@ -76,12 +76,12 @@ body {
         padding:5px 10px;
         font-size: 12px;
         letter-spacing:1px;
-        background:black;
+        background: #202020;
         height:40px;
         text-transform:uppercase;
         letter-spacing:1px;
         color:#FFF;
-        border:2px solid black;
+        border:2px solid  #202020;
       -webkit-transition:all .1s ease-in-out;
         -moz-transition:all .1s ease-in-out;
         -ms-transition:all .1s ease-in-out;
@@ -90,12 +90,12 @@ body {
     
     #contact .container form .submit:hover {
         color:#FFF;
-        border:2px solid black;
-        background: black;
+        border:2px solid #202020;
+        background: #202020;
         cursor:pointer;}
     
     #contact .container form .required {
-        color:black;}
+        color: #202020; }
       
 
   
@@ -108,6 +108,6 @@ body {
       .fa{
         padding-left: 10%;
         padding-right: 10%;
-        padding-top: 2%;
-        color: black;
+        padding-top: 5%;
+        color: #202020;
       }
