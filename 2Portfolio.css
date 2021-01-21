@@ -96,19 +96,19 @@ background-color: #FFF9E8;
 }
 
 .slide_img_01 {
-  background : url('1.jpg') no-repeat center;
+  background : url('2.jpg') no-repeat center;
   background-size: cover;
   left: 0;
 }
 
 .slide_img_02 {
-  background : url('2.jpg') no-repeat center;
+  background : url('illustration\ \(3\).jpg') no-repeat center;
   background-size : cover;
   left: 100%
 }
 
 .slide_img_03 {
-  background : url('3.jpg') no-repeat center;
+  background : url('illustration\ \(3\).jpg') no-repeat center;
   background-size : cover;
   left: 100%;
 }
